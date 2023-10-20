@@ -1,1 +1,6 @@
 Hello23
+git add .
+git commit -m "Hello23"
+git push origin  test:test
+
+git remote add origin https://github.com/Pimchaonk/DES424_6322771096.git
